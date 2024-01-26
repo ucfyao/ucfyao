@@ -9,5 +9,7 @@
 📬 Want to connect? Feel free to reach out to me:
 
 LinkedIn: Zihao Yao
+
 Personal Website: yaozihao.com
+
 Email: yaozihao@yaozihao.com
