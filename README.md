@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @ucfyao
-- 👀 I’m interested in coding, travel or do something interesting.
-- 🌱 I’m currently learning meachin learning.
-- 💞️ I’m looking to collaborate on meachin learning, quantitative transaction.
-- 📫 How to reach me 
-  - https://www.linkedin.com/in/zihao-yao/
-  - https://yaozihao.com/ 
-  - yaozihao@yaozihao.com
+👋 Hello! I'm Zihao Yao, also known as @ucfyao.
 
-<!---
-ucfyao/ucfyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 As a passionate coder, I find joy in exploring new technologies and developing innovative solutions. My current focus is on machine learning, where I am constantly learning and growing.
+
+🌏 Apart from coding, I have a keen interest in traveling and engaging in exciting activities that broaden my horizons.
+
+🤖 I'm deeply involved in machine learning and am also interested in quantitative trading. I'm always open to collaborations in these areas, aiming to contribute and learn in the process.
+
+📬 Want to connect? Feel free to reach out to me:
+
+LinkedIn: Zihao Yao
+Personal Website: yaozihao.com
+Email: yaozihao@yaozihao.com
